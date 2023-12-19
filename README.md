@@ -36,7 +36,7 @@ positional arguments:
 options:
   -h, --help            show this help message and exit
   --config [CONFIG FILE], -c [CONFIG FILE]
-                        Use a custom config location. (default: /home/ethan/.local/share/discord_launcher/config.toml)
+                        Use a custom config location. (default: ~/.local/share/discord_launcher/config.toml)
   --log-level [LOGGING LEVEL], -v [LOGGING LEVEL]
                         Set the logging level. Possible options are `debug`, `info`, `warn`, and `error`. (default: info)
 
