@@ -1,0 +1,4 @@
+dasbus
+desktop-entry-lib
+pygobject
+requests
