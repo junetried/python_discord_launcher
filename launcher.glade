@@ -693,7 +693,7 @@ This does &lt;i&gt;not&lt;/i&gt; work with the command-line application, which h
               </object>
               <packing>
                 <property name="name">editor_tab</property>
-                <property name="title" translatable="yes">cargo.toml</property>
+                <property name="title" translatable="yes">config.toml</property>
                 <property name="position">2</property>
               </packing>
             </child>
